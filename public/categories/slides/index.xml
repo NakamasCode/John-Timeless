@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slides on John Timeless</title>
+    <link>http://localhost:1313/John-Timeless/categories/slides/</link>
+    <description>Recent content in Slides on John Timeless</description>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2025 11:47:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/John-Timeless/categories/slides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the first post on Hugo</title>
+      <link>http://localhost:1313/John-Timeless/posts/first/</link>
+      <pubDate>Fri, 31 Jan 2025 11:47:55 +0100</pubDate>
+      <guid>http://localhost:1313/John-Timeless/posts/first/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;happy-new-year-slippers&#34;&gt;Happy New Year Slippers&lt;/h1&gt;
+&lt;p&gt;As the New Year kicks off with fresh possibilities, many of us are upgrading our lifestyles—starting with comfort and style. This year, I’m diving deep into the world of shoemaking, sharing designs and the stories behind them. One of my favorites is the &lt;strong&gt;Izmir Sandals&lt;/strong&gt;, now reimagined as &lt;strong&gt;Femo Slides&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In this post, I’ll walk you through the journey of the Izmir Sandals, their transformation into Femo Slides, and why they remain timeless. Stick around—you might find your new go-to slippers!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
