@@ -24,7 +24,7 @@ In this post, I’ll walk you through the journey of the Izmir Sandals, their tr
 
 The **Femo Slides** blend tradition and modern style. Crafted from durable, locally sourced materials, they’re perfect for everyday wear or special occasions. Designed with comfort and versatility in mind, they’re a timeless addition to any wardrobe.  
 
-![Femo Slides Image](/posts/cover.jpg)
+![Femo Slides Image](/posts/cover.jpg#left)
 
 
 Originally launched by [Hermès Paris](https://en.wikipedia.org/wiki/Herm%C3%A8s) in 2004, the **Izmir Sandals** quickly became a go-to for classy outings. With their sleek H-shaped cut and slim profile, they blend luxury with comfort.  
