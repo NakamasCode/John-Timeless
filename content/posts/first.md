@@ -24,7 +24,7 @@ In this post, I’ll walk you through the journey of the Izmir Sandals, their tr
 
 The **Femo Slides** blend tradition and modern style. Crafted from durable, locally sourced materials, they’re perfect for everyday wear or special occasions. Designed with comfort and versatility in mind, they’re a timeless addition to any wardrobe.  
 
-![Femo Slides Image](/posts/cover.jpg#left)
+![Femo Slides Image](posts/cover.jpg#left)
 
 
 Originally launched by [Hermès Paris](https://en.wikipedia.org/wiki/Herm%C3%A8s) in 2004, the **Izmir Sandals** quickly became a go-to for classy outings. With their sleek H-shaped cut and slim profile, they blend luxury with comfort.  
@@ -60,7 +60,7 @@ For my size, I wear size 45, so is select a plastic mold last.
 ### 3. Crafting the Pattern  
 Using **cardboard paper** or recycled materials, we craft the pattern. For example, we repurpose packaging boxes from local hairdressers, making the process eco-friendly and cost-effective.  
 **The image** below shows a well detailed dimensioning on how to construct the upper pattern but i use free hand sketching to do mine(For beginners, i advise you try the dimensions)
-![Upper Pattern](/posts/patternadj.jpg)  
+![Upper Pattern](posts/patternadj.jpg)  
 
 
 ---
@@ -69,8 +69,8 @@ Using **cardboard paper** or recycled materials, we craft the pattern. For examp
 When choosing the materials sfor the upper, i use the international standard which is pure leather for the top and i use either soft leather linen or normal linen. 
 I use a Maco foam with 4mm thickness and fibre board to create the insole. You can select your choice of color for wrapping the insole. 
 
-![Fibre board](/posts/fiberboard.jpg)
-![Maco Foam](/posts/material1.jpg)
+![Fibre board](posts/fiberboard.jpg)
+![Maco Foam](posts/material1.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ Customization is the heart of Femo Slides. Whether it’s the classic H-design o
 ### Evolution of the H-Design  
 - **Oran Sandal (1997):** Minimalist lines and timeless sophistication.  
 - **Chypre Sandal:** Adjustable straps and rubber soles for added comfort.  
-![Upper Pattern](/posts/chypre_sandals.jpg) 
+![Upper Pattern](posts/chypre_sandals.jpg) 
 ### Customization Options  
 - **Color Combinations:** Earthy tones or bold contrasts.  
 - **Material Choices:** Leather, goatskin, or synthetic.  
